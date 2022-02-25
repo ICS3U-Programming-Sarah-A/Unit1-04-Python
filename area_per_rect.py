@@ -12,6 +12,5 @@ def main():
     print("Area = {} cm^2". format(10*8))
     print("Perimeter = {} cm". format(2*(10+8)))
 
-
 if __name__ == "__main__":
     main()

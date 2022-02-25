@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Created By: Ms Raffin
-# Date: Apr. 22, 2021
+# Created By: Sarah
+# Date: Feb. 22, 2022
 # This program does basic math.
 
 
